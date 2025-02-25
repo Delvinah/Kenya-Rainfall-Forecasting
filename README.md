@@ -31,6 +31,7 @@ The objective of this project is to develop a deep learning-based model for dete
    Here we created a dashboard to show the average amount of rainfall per county from 1981-2025 and the Geographical Mapping. Here is the link https://public.tableau.com/app/profile/linda.temoet/viz/Kenya-Rainfall-Analysis/Dashboard1?publish=yes
 
 7. Group Members
+   
    (a) Delvin Osoro
    (b) Linda Temoet
    (c) Grace Mwega
