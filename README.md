@@ -25,6 +25,8 @@ The models were evaluated using key metrics such as Root Mean Squared Error (RMS
 The objective of this project is to develop a deep learning-based model for detecting extreme rainfall events using historical meteorological data. The model’s insights can help improve early warning systems, disaster preparedness, and climate adaptation strategies
 
 5. Recommendations and conclusion
+
+   
 Conclusion:
 
 LSTM with lag features is the best model (Lowest RMSE = 28.07 mm, MAE = 16.12 mm).
