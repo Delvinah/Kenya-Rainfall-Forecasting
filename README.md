@@ -25,6 +25,23 @@ The models were evaluated using key metrics such as Root Mean Squared Error (RMS
 The objective of this project is to develop a deep learning-based model for detecting extreme rainfall events using historical meteorological data. The model’s insights can help improve early warning systems, disaster preparedness, and climate adaptation strategies
 
 5. Recommendations and conclusion
+Conclusion:
+
+LSTM with lag features is the best model (Lowest RMSE = 28.07 mm, MAE = 16.12 mm).
+GRU with lag features also performs well (RMSE 31.23 mm, MAE 18.99 mm) and is a good alternative.
+GRU without lag features has higher errors, making it less reliable.
+SARIMA performs the worst, with high RMSE and MAE, making it unsuitable for forecasting dynamic rainfall trends.
+
+Recommendations:
+
+Prioritize LSTM Refinement:
+Hyperparameter Tuning (layers, dropout, learning rate).
+Expand Feature Engineering (temp, humidity, satellite data).
+Address Regional Variations:
+Develop region-specific models.
+Add regional features to current models.
+
+   
    
 6. Tableau Dashboard
     
